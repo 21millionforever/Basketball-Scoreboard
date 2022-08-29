@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-image: url(background_image2.jpg);
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score {
+    background: green;
+    width: 150px;
+    font-size: 100px;
+    margin: 10px;
+    color: red;  
+}
+
+button {
+    background: none;
+    color: aliceblue;
+}
